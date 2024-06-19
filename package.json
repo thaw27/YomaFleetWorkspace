@@ -1,0 +1,17 @@
+{
+  "name": "yomafleetworkspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test": "mocha test/*.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chromedriver": "^126.0.1",
+    "mocha": "^10.4.0",
+    "selenium-webdriver": "^4.21.0"
+  }
+}
